@@ -74,7 +74,7 @@ The project uses speech data from the **DementiaBank** datasets (ADReSS, ADReSSo
 - **ADReSSo**: A variant of the ADReSS dataset.
 - **ADReSS-M**: An additional variant that includes metadata for analysis.
 
-You can find more information and access the datasets [here](https://dementia.turing.ac.uk/dementia-bank).
+You can find more information and access the datasets [here](https://dementia.talkbank.org/).
 
 ## Usage
 
