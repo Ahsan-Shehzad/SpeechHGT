@@ -41,7 +41,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SpeechHGT.git
+   git clone https://github.com/Ahsan-Shehzad/SpeechHGT.git
    cd SpeechHGT
    ```
 
