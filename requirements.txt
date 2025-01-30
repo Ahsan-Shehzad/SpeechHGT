@@ -1,0 +1,17 @@
+torch==1.13.1
+torch-geometric==2.1.0
+librosa==0.9.2
+pyAudioAnalysis==0.3.8
+spaCy==3.5.0
+pyConTextNLP==1.4.3
+openai-whisper==1.0.0
+scikit-learn==1.2.1
+matplotlib==3.6.2
+transformers==4.26.1
+textstat==0.7
+pydub==0.25.1
+noisereduce==1.1.1
+hypernetx==1.0.0
+praat-parselmouth==0.5.4
+openSMILE==2.4.0
+tqdm==4.64.1
