@@ -1,6 +1,8 @@
-# SpeechHGT: Early Detection of Alzheimer's Disease Using Spontaneous Speech
+# SpeechHGT: Multimodal Hypergraph Transformer for Alzheimer Disease Detection using Spontaneous Speech
 
-**SpeechHGT** is a novel approach for early detection of Alzheimer's Disease (AD) based on the analysis of spontaneous speech. This project leverages a **Multimodal Hypergraph Transformer (SpeechHGT)** model to increase the accuracy of AD detection by analyzing both linguistic and acoustic features in speech.
+Early detection of Alzheimer’s disease (AD) through spontaneous speech analysis represents a promising, non-invasive diagnostic approach. Existing methods predominantly rely on fusion-based multimodal deep learning, effectively integrating linguistic and acoustic features. However, these methods inadequately model higher-order interactions between modalities, reducing diagnostic accuracy. To address this, we introduce SpeechHGT, a Multimodal Hypergraph Transformer designed to capture and learn higher-order interactions in spontaneous speech features. SpeechHGT encodes multimodal features as hypergraphs, where nodes represent individual features and hyperedges represent grouped interactions. A novel hypergraph-aware attention mechanism enables robust modeling of both pairwise and higher-order interactions. Experimental evaluations on the DementiaBank datasets reveal that SpeechHGT achieves state-of-the-art performance, surpassing baseline models in accuracy and F1 score. These results underscore the potential of hypergraph-based models to enhance AI-driven diagnostic tools, offering robust, scalable, and non-invasive methods for early AD detection while supporting broader health informatics applications. 
+
+![image](./framework.png)
 
 ## Table of Contents
 
